@@ -63,5 +63,5 @@
   </tbody>
 </table>
 
-[![Adesuyi Adetolagithub stats](https://github-readme-stats.vercel.app/api?username=GraceOyiza&sshow_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Arinpe/github-readme-stats)  
+[![Detolagithub stats](https://github-readme-stats.vercel.app/api?username=Arinpe&sshow_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Arinpe/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arinpe&show_icons=true&theme=radical&layout=compact)](https://github.com/Arinpe/github-readme-stats)
