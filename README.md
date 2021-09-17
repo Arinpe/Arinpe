@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about Software Development
 - 📫 How to reach me:  [@_detola_](https://twitter.com/_detola_), [@Adesuyi Adetola](https://www.linkedin.com/in/aadetola/) email:    dehtolah@gmail.com
+- This is a link to my portfolio ![image](https://user-images.githubusercontent.com/60644738/133803366-3176c8f9-7b84-4136-bd3a-0859e2491980.png)
+
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: The moon has moonquakes..
 
